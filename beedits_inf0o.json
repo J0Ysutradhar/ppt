@@ -1,0 +1,305 @@
+{
+  "brand_overview": {
+    "brand_name": "Beedits",
+    "parent_company": "Blacky Studio",
+    "website": "https://beedits.com",
+    "parent_company_website": "https://blackystudio.com",
+    "tagline": "Mastering Photo Retouching and Creative Edits.",
+    "brand_description": "Beedits is a professional photo editing, retouching, and creative manipulation studio specializing in high-end image enhancement for photographers, fashion brands, e-commerce businesses, agencies, and creatives.",
+    "core_promise": "Expert photo retouching, creative edits, and Photoshop work delivered with precision, artistry, and consistency."
+  },
+  "key_features": [
+    "Professional quality guaranteed",
+    "Fast turnaround",
+    "24/7 customer support",
+    "Free trial edit",
+    "100% money-back guarantee",
+    "White-label / NDA service",
+    "Dedicated editors for agencies",
+    "Bulk discounts available"
+  ],
+  "contact_information": {
+    "website": "https://beedits.com",
+    "free_trial": "https://beedits.com/get-free-trial",
+    "whatsapp": "+1 (929) 567-4262",
+    "instagram": "@hello.beedits"
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "Basic Retouching",
+      "price": "$2.50/image",
+      "best_for": [
+        "E-commerce",
+        "Large photo batches",
+        "Simple clean edits"
+      ],
+      "includes": [
+        "Skin smoothing",
+        "Blemish removal",
+        "Light & color correction",
+        "Basic stray hair cleanup"
+      ],
+      "regular_client_discount": {
+        "discount": "20% OFF",
+        "discount_price": "$2.00/image",
+        "eligibility": {
+          "projects_per_week": "3–4",
+          "minimum_images_per_project": 8
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Standard Retouching",
+      "price": "$4.00/image",
+      "best_for": [
+        "Lifestyle shoots",
+        "Business headshots",
+        "Couples sessions",
+        "Social media content"
+      ],
+      "includes": [
+        "Frequency separation",
+        "Blemish & spot removal",
+        "Teeth whitening",
+        "Eye enhancement",
+        "Hair cleanup",
+        "Backdrop cleanup",
+        "Color correction"
+      ],
+      "regular_client_discount": {
+        "discount": "15% OFF",
+        "discount_price": "$3.40/image",
+        "eligibility": {
+          "projects_per_week": "3–4",
+          "minimum_images_per_project": 5
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Beauty Retouching",
+      "price": "$5.00/image",
+      "best_for": [
+        "Beauty photography",
+        "Fashion photography",
+        "Portraits"
+      ],
+      "includes": [
+        "Frequency separation",
+        "Texture control",
+        "Dodge & burn",
+        "Hair fixing",
+        "Teeth whitening",
+        "Eye enhancement"
+      ],
+      "discount": {
+        "discount": "20% OFF",
+        "discounted_price": "$4.00/image"
+      }
+    },
+    {
+      "id": 4,
+      "name": "High-End Retouching",
+      "price": "$6.00/image",
+      "best_for": [
+        "Editorial",
+        "Commercial",
+        "Magazine-quality work"
+      ],
+      "includes": [
+        "Advanced frequency separation",
+        "Advanced dodge & burn",
+        "Professional color grading",
+        "Eye & hair enhancement",
+        "Background cleanup",
+        "Clothing fixes"
+      ],
+      "discount": {
+        "discount": "20% OFF",
+        "discounted_price": "$4.80/image"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Basic Creative Photo Manipulation",
+      "price": "$15.00/image",
+      "best_for": [
+        "Social media",
+        "Album covers",
+        "Personal branding",
+        "Creative portraits"
+      ],
+      "includes": [
+        "Photo compositing",
+        "Color grading",
+        "Lighting enhancement",
+        "Light skin retouching",
+        "Creative effects"
+      ],
+      "discount": {
+        "discount": "10% OFF",
+        "discounted_price": "$13.50/image"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Advanced Creative Manipulation",
+      "price": "$25–$60/image",
+      "best_for": [
+        "Fashion editorials",
+        "Commercial campaigns",
+        "Fantasy portraits",
+        "Music covers"
+      ],
+      "includes": [
+        "Complex compositing",
+        "Advanced color grading",
+        "Lighting manipulation",
+        "Advanced retouching",
+        "VFX effects",
+        "Background creation",
+        "Artistic enhancement"
+      ],
+      "discount": {
+        "discount": "15% OFF"
+      },
+      "notes": "Pricing depends on complexity and number of elements."
+    }
+  ],
+  "service_categories": [
+    "Basic Retouching",
+    "High-End Retouching",
+    "Beauty Retouching",
+    "Editorial Retouching",
+    "Wedding Photo Editing",
+    "Headshot Retouch",
+    "Photo Manipulation",
+    "Studio Portrait Retouching"
+  ],
+  "bulk_discounts": [
+    {
+      "quantity": "15+ Images",
+      "discount": "10% OFF"
+    },
+    {
+      "quantity": "30+ Images",
+      "discount": "15% OFF"
+    }
+  ],
+  "custom_packages": "Custom monthly and weekly packages are available.",
+  "white_label_agency_partnership": {
+    "features": [
+      "NDA support",
+      "Dedicated editors",
+      "Scalable editing team",
+      "Backend partner support",
+      "Consistent editing style",
+      "Fast delivery pipeline"
+    ],
+    "agency_workflow": "Beedits works as a hidden backend editing team for agencies while the agency keeps full branding ownership."
+  },
+  "ordering_process": {
+    "order_methods": [
+      "Instagram DM",
+      "WhatsApp",
+      "Website Contact Form"
+    ],
+    "file_sharing_methods": [
+      "Website Upload",
+      "Google Drive",
+      "Dropbox",
+      "WeTransfer"
+    ],
+    "delivery_options": [
+      "Standard Delivery (24–48 hours)",
+      "Express Delivery (extra charge)"
+    ],
+    "payment_methods": [
+      "PayPal",
+      "Wise",
+      "Direct Bank Transfer"
+    ]
+  },
+  "faq_dataset": [
+    {
+      "question": "What services do you provide?",
+      "answer": "We provide professional photo editing, high-end retouching, beauty retouching, editorial retouching, wedding photo editing, creative manipulation, compositing, headshot retouching, and e-commerce photo editing."
+    },
+    {
+      "question": "Do you offer a free trial?",
+      "answer": "Yes. We provide a free sample edit so clients can test our quality before placing larger orders."
+    },
+    {
+      "question": "How fast is delivery?",
+      "answer": "Most standard edits are delivered within 24–48 hours. Express delivery is also available."
+    },
+    {
+      "question": "Can I get bulk discounts?",
+      "answer": "Yes. Orders with 15+ images get 10% OFF and 30+ images get 15% OFF."
+    },
+    {
+      "question": "Can agencies work with you privately?",
+      "answer": "Yes. We offer white-label editing with NDA protection and dedicated editors."
+    },
+    {
+      "question": "What if I don't like the result?",
+      "answer": "We provide revisions until satisfaction and also offer a 100% money-back guarantee."
+    },
+    {
+      "question": "Can you do wedding photo editing?",
+      "answer": "Yes. Wedding photo retouching is one of our core services."
+    },
+    {
+      "question": "How do I send files?",
+      "answer": "You can upload directly on our website or send files through Google Drive, Dropbox, or WeTransfer."
+    },
+    {
+      "question": "Do you do background replacement?",
+      "answer": "Yes. Background replacement and photo manipulation services are available."
+    },
+    {
+      "question": "Do you support urgent delivery?",
+      "answer": "Yes. Express delivery is available for urgent projects."
+    }
+  ],
+  "ai_customer_support_dataset": {
+    "greeting_examples": [
+      {
+        "user": "Hi",
+        "assistant": "Hello! Welcome to Beedits. How can I help you today?"
+      },
+      {
+        "user": "What do you do?",
+        "assistant": "We specialize in professional photo retouching, creative photo manipulation, beauty retouching, and high-end image editing services."
+      },
+      {
+        "user": "How much does retouching cost?",
+        "assistant": "Our pricing starts from $2.50/image for Basic Retouching and goes up to $6/image for High-End Retouching."
+      },
+      {
+        "user": "Do you offer free samples?",
+        "assistant": "Yes! We offer a free trial edit so you can test our quality before placing a full order."
+      },
+      {
+        "user": "Can I speak with a human?",
+        "assistant": "Absolutely. You can contact us directly on WhatsApp at +1 (929) 567-4262."
+      }
+    ]
+  },
+  "glossary": {
+    "Frequency Separation": "Advanced retouching technique separating texture and color layers for natural skin editing.",
+    "Dodge & Burn": "Technique used to sculpt and enhance depth by selectively brightening and darkening areas.",
+    "Color Grading": "Adjusting tones and colors to create cinematic or artistic looks.",
+    "Photo Compositing": "Combining multiple images into one final image.",
+    "White-Label Editing": "Editing work delivered under the client agency’s branding.",
+    "VFX": "Visual effects such as smoke, fog, particles, flares, and overlays.",
+    "Turnaround Time": "The delivery time between receiving files and delivering edited photos."
+  },
+  "testimonials_dataset": [
+    "Great editor, retoucher, and Photoshop genius.",
+    "Attention to detail and willingness to revise was impressive.",
+    "Quick turnaround and consistent quality exceeded expectations."
+  ]
+}
