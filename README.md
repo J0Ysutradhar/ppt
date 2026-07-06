@@ -7,3 +7,8 @@ sheet- https://docs.google.com/spreadsheets/d/1tw8ZMamMFmdFji61nocfRcKoACsecQrdV
 https://docs.google.com/spreadsheets/d/1tw8ZMamMFmdFji61nocfRcKoACsecQrdVs4NmZ6f_tQ/edit?usp=sharing
 
 https://drive.google.com/drive/folders/1L7Xs-Gsv5N8hvvrbfmbtC1vh8PfTDBh1S3PO0BbfYfqrLnsWiob51SJs5MR0j8ggIdHncNty?usp=sharing
+
+
+physics:
+
+https://drive.google.com/drive/folders/1sq2-viFeQae9gnvwLBraidtvrmGmLM6zX5DliQhyz1KsI1_3Je7uqOjPKlFfOxiVfM3GnY4N?usp=sharing
