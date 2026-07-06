@@ -12,3 +12,4 @@ https://drive.google.com/drive/folders/1L7Xs-Gsv5N8hvvrbfmbtC1vh8PfTDBh1S3PO0Bbf
 physics:
 
 https://drive.google.com/drive/folders/1sq2-viFeQae9gnvwLBraidtvrmGmLM6zX5DliQhyz1KsI1_3Je7uqOjPKlFfOxiVfM3GnY4N?usp=sharing
+https://docs.google.com/spreadsheets/d/1UzMnPRteTKm9ZS-0xXhFfFE7hLmIvCMlbvZjPh1td2s/edit?usp=sharing
