@@ -13,3 +13,7 @@ physics:
 
 https://drive.google.com/drive/folders/1sq2-viFeQae9gnvwLBraidtvrmGmLM6zX5DliQhyz1KsI1_3Je7uqOjPKlFfOxiVfM3GnY4N?usp=sharing
 https://docs.google.com/spreadsheets/d/1UzMnPRteTKm9ZS-0xXhFfFE7hLmIvCMlbvZjPh1td2s/edit?usp=sharing
+
+DS
+
+https://drive.google.com/drive/folders/1IW005oZZM2wbxxrzX7_7pLe76kHP63RqeUh2qW3P8eAD7umulQiEXlVekJSxwQZMFeHzlUgK?usp=sharing
